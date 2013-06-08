@@ -11,17 +11,17 @@ clone_extend.awesome(); // "awesome"
 ```
 
 ## Documentation
-_(Coming soon)_
+Just for use of Bai JSON extend mode.
 
 ## Examples
-_(Coming soon)_
+    var extend = require('clone-extend');
+    extend(obj1,obj2)
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_(Nothing yet)_
-
+v0.0.1 --- add main function 2013/6/8
 ## License
 Copyright (c) 2013 Tiankui  
 Licensed under the MIT license.
