@@ -1,7 +1,7 @@
 {
   "name": "clone-extend",
   "description": "deep clone an object, return a new object and extend it",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/Tiankui/clone-extend",
   "author": {
     "name": "Tiankui",
